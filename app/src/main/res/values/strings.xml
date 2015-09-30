@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Control Remoto Muestra</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="b_parada">PARADA</string>
+    <string name="b_marcha">MARCHA</string>
+    <string name="b_fr">Forward/Reverse</string>
+    <string name="b_confirmacion">CONFIRMACION</string>
+    <string name="b_actualizar">START REFRESH</string>
+    <string name="b_stop">STOP REFRESH</string>
+
+</resources>
